@@ -1,0 +1,17 @@
+﻿{
+  "version": "1.0.0",
+  "releaseDate": "2026-11-25",
+  "installerName": "Termide-Installer-Updater-Wizard.exe",
+  "downloadUrl": "https://github.com/yigitozkan56/Termide-Releases/releases/latest/download/Termide-Installer-Updater-Wizard.exe",
+  "releaseUrl": "https://github.com/yigitozkan56/Termide-Releases/releases/tag/v1.0.0",
+  "changelogTr": [
+    "Tek tip akıllı Kurulum ve Otomatik Güncelleme Sihirbazı (Installer & Updater Wizard)",
+    "Uygulama içi otomatik sürüm kontrolü ve tek tıkla güncelleme akışı",
+    "Güncelleme sırasında ayarlar, 54 tema tercihi, dil seçimi ve projelerin %100 korunması"
+  ],
+  "changelogEn": [
+    "Unified smart Installer & Updater Wizard for fresh installs and seamless updates",
+    "In-app background version check and one-click update workflow",
+    "100% preservation of user settings, 54 theme preferences, language, and projects during updates"
+  ]
+}
