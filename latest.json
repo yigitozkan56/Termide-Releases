@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-11-25",
+  "publishedAt": "2026-11-25T17:56:03.333Z",
+  "company": "Terminan Code",
+  "product": "Termide",
+  "installerName": "Termide-Installer-Updater-Wizard.exe",
+  "sizeBytes": 137445428,
+  "sha256": "b3311a747a5e46827ee6f9d767ab193cbcfcd3ef6682c4c978c0d77cb7ab4937",
+  "signature": "EtNdycOoK4kIbtt8mG3YYASqQzQU72pjH3JCQ+VYGPHOMjhZkkGstyFuok340EQRWk/T1jQZEPkadwuBIvKICg==",
+  "signatureAlgorithm": "Ed25519-SHA256",
+  "keyId": "terminan-code-v1",
+  "downloadUrl": "https://github.com/yigitozkan56/Termide-Releases/releases/latest/download/Termide-Installer-Updater-Wizard.exe",
+  "releaseUrl": "https://github.com/yigitozkan56/Termide-Releases/releases/tag/v1.0.0",
+  "changelogTr": [
+    "Windows binary metadata (Terminan Code / Termide / © 2026 Terminan Code) ve UAC manifest gömüldü",
+    "Ed25519 + SHA-256 kriptografik güncelleme imza doğrulaması eklendi",
+    "Tek tip akıllı Kurulum ve Otomatik Güncelleme Sihirbazı (Installer & Updater Wizard)"
+  ],
+  "changelogEn": [
+    "Embedded Windows binary metadata (Terminan Code / Termide / © 2026 Terminan Code) and UAC manifest",
+    "Added Ed25519 + SHA-256 cryptographic release signature verification",
+    "Unified smart Installer & Updater Wizard for fresh installs and seamless updates"
+  ]
+}
